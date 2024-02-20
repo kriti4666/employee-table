@@ -49,5 +49,6 @@ npm start
 Contributor Name : Kriti
 
 Repository Links
-Frontend link : https://app.netlify.com/sites/peaceful-vacherin-379a63/deploys/65d47ad6cfee53b5a9a32b3f
+Frontend link : https://65d47ad6cfee53b5a9a32b3f--peaceful-vacherin-379a63.netlify.app/login
+<br/>
 Backend link : https://employee-table-backend.onrender.com
