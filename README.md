@@ -17,8 +17,11 @@ This project is a web application for managing employee with user authentication
 
    ```bash
    git clone <frontend-repo-link>
+   <br/>
    cd client-directory
+   <br/>
    npm install
+   <br/>
    npm start
 
 1.Access the frontend application by opening it in a web browser.
